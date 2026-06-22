@@ -11,7 +11,7 @@ namespace MyFirstCsharpProgram
         static void Main(string[] args)
         {
             Console.WriteLine("Hi Winston");
-            Console.WriteLine("How r u?");
+     
         }
     }
 }
